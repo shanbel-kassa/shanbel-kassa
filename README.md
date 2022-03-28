@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on perago inforamation system.
-- 🌱 I’m currently learning ReactJs.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: shanbelkassa1887@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on perago inforamation system
+- 🌱 I’m currently learning ReactJs
+- 👯 I’m looking to collaborate on scacsac
+- 🤔 I’m looking for help with dasd
+- 💬 Ask me about asd
+- 📫 How to reach me: shanbelkassa1887@gmail.com
+- 😄 Pronouns:sfssfsd
+- ⚡ Fun fact: a
 -->
 
