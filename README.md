@@ -1,6 +1,6 @@
 ### Hi there, I am shanbel kassa 👋
 
-<!--
+
 **shanbel-kassa/shanbel-kassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shanbelkassa1887@gmail.com
 - 😄 Pronouns:sfssfsd
 - ⚡ Fun fact: a
--->
+
 
