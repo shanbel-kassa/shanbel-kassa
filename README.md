@@ -5,7 +5,7 @@
 I`m Shanbel Kassa from Ethiopia ,Passionate full-stack developer with 3+ years of hands-on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML,CSS, .NETCore,javaScript,NodJs,Typescript ,angular,reactJs,tailwind css, ant design.
 
 
-## Skills and Exprience 
+## Skills  
 
 ReactJs | Angular | Teypescript | Javascript | NestJs | Asp.NetCore | HTML | CSS | tailwind css
 
