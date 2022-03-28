@@ -6,8 +6,7 @@ I`m Shanbel Kassa from Ethiopia ,Passionate full-stack developer with 3+ years o
 
 Skills: ReactJs | Angular | Teypescript | Javascript | NestJs | Asp.NetCore | HTML | CSS | tailwind css
 
-- 🔭 I’m currently working on this page. 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shanbel-kassa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shanbel-kassa/)  
 
