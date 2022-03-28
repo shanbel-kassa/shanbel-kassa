@@ -1,6 +1,6 @@
 ### Hi there 👋,  Shanbel kassa
 #### Software developer
-![Software developer](https://media.istockphoto.com/photos/smart-young-female-it-programer-working-on-desktop-green-mockup-in-picture-id1194430821?k=20&m=1194430821&s=612x612&w=0&h=Zvf2Uhm5NNZ6C7Sd1NVlQqnvy5jqLRJt0DdrfbXKLKI=)
+![Software developer](https://media-exp1.licdn.com/dms/image/C4E03AQHho5YmOd4K9g/profile-displayphoto-shrink_800_800/0/1622108009638?e=1654128000&v=beta&t=FvQml8Bk-N6LFCQIXgGYqUrL1ED8fS3dwyc0y4WsnvE)
 
 I`m Shanbel Kassa from Ethiopia ,Passionate full-stack developer with 3+ years of hands-on experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML,CSS, .NETCore,javaScript,NodJs,Typescript ,angular,reactJs,tailwind css, ant design.
 
